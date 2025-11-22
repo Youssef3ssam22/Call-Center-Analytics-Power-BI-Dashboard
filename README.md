@@ -77,9 +77,9 @@ Build a complete interactive dashboard to evaluate call center performance and c
 
 ---
 
-## 📸 Dashboard Preview
 
-![Dashboard Preview](images/CallCenter PowerBi.png)
+## 📸 Dashboard Preview
+![Dashboard Preview](images/CallCenter_PowerBI.png)
 
 
 ---
