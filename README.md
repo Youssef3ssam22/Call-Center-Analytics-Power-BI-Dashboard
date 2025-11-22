@@ -82,7 +82,7 @@ Build a complete interactive dashboard to evaluate call center performance and c
 ![Dashboard Preview](images/CallCenter_PowerBI.png)
 
 
----
+--
 
 ## 🧠 About Me
 
