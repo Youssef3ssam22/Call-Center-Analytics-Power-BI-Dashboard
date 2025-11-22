@@ -107,8 +107,7 @@ I build **scalable ETL pipelines, analytical dashboards, and modern data solutio
 
 ## 💼 Experience Highlights
 
-⭐ **Google DEPI Internship**  
-- Built ETL pipelines.  
+⭐ **Google DEPI Data Analytics Internship**  
 - Designed Power BI & Tableau dashboards.  
 - Worked with real-world datasets.
 
